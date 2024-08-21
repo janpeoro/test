@@ -1052,6 +1052,7 @@
         },
         {
             "name": "laravel/framework",
+<<<<<<< HEAD
             "version": "v11.20.0",
             "source": {
                 "type": "git",
@@ -1062,6 +1063,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/framework/zipball/3cd7593dd9b67002fc416b46616f4d4d1da3e571",
                 "reference": "3cd7593dd9b67002fc416b46616f4d4d1da3e571",
+=======
+            "version": "v11.21.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/framework.git",
+                "reference": "9d9d36708d56665b12185493f684abce38ad2d30"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/9d9d36708d56665b12185493f684abce38ad2d30",
+                "reference": "9d9d36708d56665b12185493f684abce38ad2d30",
+>>>>>>> e2ca47d (updated course page)
                 "shasum": ""
             },
             "require": {
@@ -1254,6 +1267,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
+<<<<<<< HEAD
             "time": "2024-08-06T14:39:21+00:00"
         },
         {
@@ -1268,6 +1282,22 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/prompts/zipball/409b0b4305273472f3754826e68f4edbd0150149",
                 "reference": "409b0b4305273472f3754826e68f4edbd0150149",
+=======
+            "time": "2024-08-20T15:00:52+00:00"
+        },
+        {
+            "name": "laravel/prompts",
+            "version": "v0.1.25",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/prompts.git",
+                "reference": "7b4029a84c37cb2725fc7f011586e2997040bc95"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/prompts/zipball/7b4029a84c37cb2725fc7f011586e2997040bc95",
+                "reference": "7b4029a84c37cb2725fc7f011586e2997040bc95",
+>>>>>>> e2ca47d (updated course page)
                 "shasum": ""
             },
             "require": {
@@ -1310,9 +1340,15 @@
             "description": "Add beautiful and user-friendly forms to your command-line applications.",
             "support": {
                 "issues": "https://github.com/laravel/prompts/issues",
+<<<<<<< HEAD
                 "source": "https://github.com/laravel/prompts/tree/v0.1.24"
             },
             "time": "2024-06-17T13:58:22+00:00"
+=======
+                "source": "https://github.com/laravel/prompts/tree/v0.1.25"
+            },
+            "time": "2024-08-12T22:06:33+00:00"
+>>>>>>> e2ca47d (updated course page)
         },
         {
             "name": "laravel/serializable-closure",
@@ -1920,6 +1956,7 @@
         },
         {
             "name": "nesbot/carbon",
+<<<<<<< HEAD
             "version": "3.7.0",
             "source": {
                 "type": "git",
@@ -1930,6 +1967,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/cb4374784c87d0a0294e8513a52eb63c0aff3139",
                 "reference": "cb4374784c87d0a0294e8513a52eb63c0aff3139",
+=======
+            "version": "3.8.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/briannesbitt/Carbon.git",
+                "reference": "bbd3eef89af8ba66a3aa7952b5439168fbcc529f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/bbd3eef89af8ba66a3aa7952b5439168fbcc529f",
+                "reference": "bbd3eef89af8ba66a3aa7952b5439168fbcc529f",
+>>>>>>> e2ca47d (updated course page)
                 "shasum": ""
             },
             "require": {
@@ -2022,7 +2071,11 @@
                     "type": "tidelift"
                 }
             ],
+<<<<<<< HEAD
             "time": "2024-07-16T22:29:20+00:00"
+=======
+            "time": "2024-08-19T06:22:39+00:00"
+>>>>>>> e2ca47d (updated course page)
         },
         {
             "name": "nette/schema",
